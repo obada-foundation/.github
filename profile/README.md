@@ -1,5 +1,6 @@
 # Hello world, from the OBADA team 👋
 
-OBADA is building a system for electronic assets disposition on Cosmos 💫 which allows to add a value to used devices
+OBADA defines open, standard methods to connect real-world assets to their “digital twin” counterparts: physical NFTs.
 
 ##🙋 Find us elsewhere
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/obada/)

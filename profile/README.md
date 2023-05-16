@@ -3,8 +3,6 @@
 OBADA defines open, standard methods to connect real-world assets to their “digital twin” counterparts: physical NFTs.
 
 ## ⚒️ Our Tools
-- Wallet
-- [Browser Wallet](http://wallet.alpha.obada.io.s3-website-us-east-1.amazonaws.com/) (temporary solution)
 - [Blockchain Explorer](http://explorer.alpha.obada.io/)
 - [Documents Registry](http://registry.beta.obada.io/)
 - [Faucet](https://faucet.obada.io) (you can get free tokens here)

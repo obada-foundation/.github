@@ -4,7 +4,7 @@ OBADA defines open, standard methods to connect real-world assets to their “di
 
 ## ⚒️ Our Tools
 - [Blockchain Explorer](http://explorer.alpha.obada.io/)
-- [Documents Registry](http://registry.beta.obada.io/)
+- [Documents Registry](https://registry.beta.obada.io/swagger-ui/)
 - [Faucet](https://faucet.obada.io) (you can get free tokens here)
 
 ## 📖 Resources to read
